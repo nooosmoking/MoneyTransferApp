@@ -1,6 +1,3 @@
-# Day 01 – Java bootcamp
-### OOP/Collections
-oday you will learn how to model the operation of various collections correctly, and create a full-scale money transfer application*
 
 The application operation scenario is as follows:
 
